@@ -1,3 +1,4 @@
+<a name="top"></a>
 <h1 align="center"> Projeto API - 3º Semestre </h1>
 
 ## 🎯 Objetivo
@@ -106,14 +107,6 @@ https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech/assets/126246097/8f5ca52b
     </div>
 </details>
 
-
-
-<p align="right">
-  <a href="#topo">
-    <img src="https://user-images.githubusercontent.com/123789443/270016279-157e5646-66d0-4178-9073-5faf685620ba.png" alt="Seta para cima" width="40">
-  </a>
-</p>
-
 # Guia de Instalação
 
 Este guia oferece instruções detalhadas sobre como baixar, configurar e executar este projeto em sua máquina local.
@@ -181,3 +174,9 @@ Após completar as etapas de instalação, você pode iniciar o projeto executan
   ```bash
   nodemon app.js
   ```
+
+<p align="right">
+  <a href="#top">
+    <img src="https://user-images.githubusercontent.com/123789443/270016279-157e5646-66d0-4178-9073-5faf685620ba.png" alt="Seta para cima" width="40">
+  </a>
+</p>
